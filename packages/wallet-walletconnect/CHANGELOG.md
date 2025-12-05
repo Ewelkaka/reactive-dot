@@ -1,5 +1,39 @@
 # @reactive-dot/wallet-walletconnect
 
+## 0.18.3
+
+### Patch Changes
+
+- Updated dependencies [[`ba806d6`](https://github.com/buffed-labs/reactive-dot/commit/ba806d64fa895a1fa5ae3d18c7d4224d8d2a824f)]:
+  - @reactive-dot/core@0.66.0
+
+## 0.18.2
+
+### Patch Changes
+
+- Updated dependencies [[`c293e85`](https://github.com/buffed-labs/reactive-dot/commit/c293e85b54d902c5ec8235a3aaafd05c4366fa93)]:
+  - @reactive-dot/core@0.65.0
+
+## 0.18.1
+
+### Patch Changes
+
+- [#1040](https://github.com/buffed-labs/reactive-dot/pull/1040) [`70a76b9`](https://github.com/buffed-labs/reactive-dot/commit/70a76b93332b5333a1e8c83b04cba8c80086a355) Thanks [@tien](https://github.com/tien)! - Revert breaking wallets changes.
+
+- Updated dependencies [[`70a76b9`](https://github.com/buffed-labs/reactive-dot/commit/70a76b93332b5333a1e8c83b04cba8c80086a355)]:
+  - @reactive-dot/core@0.64.1
+
+## 0.18.0
+
+### Minor Changes
+
+- [#1038](https://github.com/buffed-labs/reactive-dot/pull/1038) [`013c431`](https://github.com/buffed-labs/reactive-dot/commit/013c431f820152e681334aa43bd2618d51e9d2eb) Thanks [@tien](https://github.com/tien)! - Removed local ID from wallet accounts.
+
+### Patch Changes
+
+- Updated dependencies [[`013c431`](https://github.com/buffed-labs/reactive-dot/commit/013c431f820152e681334aa43bd2618d51e9d2eb)]:
+  - @reactive-dot/core@0.64.0
+
 ## 0.17.43
 
 ### Patch Changes
